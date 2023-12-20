@@ -1,4 +1,4 @@
-# Nepali Student Organization (NSO) Website at JSU
+# NSO Website
 
 ## Introduction
 
@@ -89,6 +89,6 @@ Our team will review your pull request. If there are any changes to be made, we 
 For any inquiries, suggestions, or contributions, please feel free to reach out to us. You can contact the NSO team via:
 
 - **Email**: [nso@jsu.edu](mailto:nso@jsu.edu)
-- **GitHub Issues**: For technical issues or feature requests, please use the [GitHub Issues](https://github.com/your-repository/issues) page.
+- **GitHub Issues**: For technical issues or feature requests, please use the [GitHub Issues](https://github.com/karuifeather/nso/issues) page.
 
 We look forward to hearing from you and appreciate your interest in improving the NSO website at JSU.
